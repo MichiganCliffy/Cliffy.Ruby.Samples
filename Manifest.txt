@@ -1,0 +1,6 @@
+.autotest
+README.txt
+Manifest.txt
+Rakefile
+lib/samples.rb
+test/test_samples.rb
